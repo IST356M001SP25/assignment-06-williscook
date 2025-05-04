@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+From retrieving the data from a CSV file to extract key phrases, this is important handling HTML, which is the strucutre and content of web pages. I have understand that every code matters, such as raise_for_status() and GET() or POST(), which is importnat viewing if there is any mistakes in the HTML.
 

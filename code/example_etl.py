@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
+import os
+import requests
 import json 
 from apicalls import get_weather, geocode
-
-
 '''
 This is a sample Multi-step data pipeline. 
 Given a list of places it will provide the current weather conditions for each place.
